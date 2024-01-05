@@ -21,6 +21,7 @@ Este é um exemplo básico para demonstrar como usar essas bibliotecas para real
 
 ### Gráfico de Dispersão dos Dados Originais
 - Este gráfico exibe os dados originais utilizados para a regressão linear. Os pontos representam a relação entre as variáveis independentes e dependentes, mostrando a distribuição dos dados.
+  
   ![image](https://github.com/marxeugenio/Regressao_Linear_com_NumPy_Matplotlib_Seaborn_e_TensorFlow/assets/78555292/0e96986e-53d0-41db-bc29-16c96418cb6c)
 
 
@@ -34,3 +35,5 @@ Este é um exemplo básico para demonstrar como usar essas bibliotecas para real
 
 ### Gráfico de Regressão Linear com Seaborn (Azul)
 - Este gráfico é gerado utilizando a função de regressão linear do Seaborn. Ele mostra uma linha de tendência juntamente com uma nuvem de dispersão dos dados, oferecendo uma visão da relação linear entre as variáveis, similar aos gráficos anteriores.
+
+    ![image](https://github.com/marxeugenio/Regressao_Linear_com_NumPy_Matplotlib_Seaborn_e_TensorFlow/assets/78555292/a5d3e7c7-39bf-46eb-8614-f98b013597ce)
