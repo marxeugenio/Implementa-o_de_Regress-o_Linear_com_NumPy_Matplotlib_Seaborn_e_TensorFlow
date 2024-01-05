@@ -1,0 +1,1 @@
+# Implementa-o_de_Regress-o_Linear_com_NumPy_Matplotlib_Seaborn_e_TensorFlow
